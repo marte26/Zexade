@@ -1,0 +1,15 @@
+autoJump:false
+enableVsync:true
+fullscreen: true
+gamma:0.0
+renderDistance:16
+maxFps:260
+guiScale:3
+simulationDistance:8
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
+tutorialStep:none
+directionalAudio:true
+skipMultiplayerWarning:true
+darkMojangStudiosBackground:true
+onboardAccessibility:false
+soundCategory_music: 0.2

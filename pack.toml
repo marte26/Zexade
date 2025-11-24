@@ -1,0 +1,13 @@
+name = "Zexade"
+author = "marte26"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "49c5feb6b8c169507ae75dd2fe498623cac1c50eb3a7a28060cd41c9974df916"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.10"

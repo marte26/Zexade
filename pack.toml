@@ -1,12 +1,12 @@
 name = "Zexade"
 author = "marte26"
-version = "2.0.0"
+version = "2.0.1+1.21.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "49c5feb6b8c169507ae75dd2fe498623cac1c50eb3a7a28060cd41c9974df916"
+hash = "d1c9f79e3182ba307c2402a4dfd5ef046cfe9a828c0fb12bb7aa24f30467f78d"
 
 [versions]
 fabric = "0.18.1"

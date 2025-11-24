@@ -1,0 +1,13 @@
+name = "QuickLeafDecay"
+filename = "quickleafdecay-mc1.21.9-0.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Puj7Mln/versions/v3qas6oD/quickleafdecay-mc1.21.9-0.3.1.jar"
+hash-format = "sha512"
+hash = "15783cfd6a52f44fcd258bef9b95e9844449ae49fdbf13ab0371088b3f92ef54b686478fc83e60e6a3438efad7eed19e244fe4b7cd055d2d88cbd63ed3b6633b"
+
+[update]
+[update.modrinth]
+mod-id = "3Puj7Mln"
+version = "v3qas6oD"

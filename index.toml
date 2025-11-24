@@ -68,6 +68,11 @@ hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "cd694dd699de893e5e9949a8575535235813faac50a8e4d126d8f40a18ea2b14"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "006181c8d6265ba5faa0f1b57873260d990e57f0682c317e7ac15e0734161909"
 metafile = true
@@ -103,6 +108,11 @@ hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
@@ -125,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "55c7b1073141a49fbd6d3ba480bd95049f7978513e8261ec2bedab8e82409836"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "67e8124a80cfa3257826ca55bcf02e78a803c0fa91ddea815418d7255ef882a3"
 metafile = true
 
 [[files]]
@@ -183,6 +198,11 @@ hash = "627733f5ea87211180e1ff8c59dcb97e64a49c19ecb1a49621e85c86c8448e40"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4345889c03219d385b9f1ebad4cb7f19e017575b1a2097f0be32265cee148548"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
@@ -215,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1e78d593cf4ee1fca22780db53353b59ac36f718efbfb379f99e3cdf010f408c"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "449a43968994ad44e9f8a36401bede9885e109231e31c8e22b72c55c68e56531"
 metafile = true
 
 [[files]]

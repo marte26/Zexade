@@ -1,6 +1,6 @@
 name = "QuickLeafDecay"
 filename = "quickleafdecay-mc1.21.11-0.4.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3Puj7Mln/versions/jyMshFoi/quickleafdecay-mc1.21.11-0.4.1.jar"

@@ -83,11 +83,6 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
 metafile = true
@@ -143,11 +138,6 @@ hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "af10f065595ed91a5856af15a951905ea8db7f57ebbfc4757ce2ff7af212b4eb"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
@@ -198,6 +188,11 @@ hash = "5beb483696cdddc56fd80223e02293430634c7307a1c8d5d5d29a94c1d9178c9"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
 metafile = true
@@ -218,13 +213,13 @@ hash = "3fcc0e1833d5ad122a623027acad67e5e3057066fec9974584995ac555d074f3"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
+file = "mods/unilib.pw.toml"
+hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
 metafile = true
 
 [[files]]
-file = "mods/unilib.pw.toml"
-hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
+file = "mods/voxy.pw.toml"
+hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]

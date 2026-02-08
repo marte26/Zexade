@@ -1,6 +1,0 @@
-_version = 3
-
-[client]
-	[client.advanced]
-		[client.advanced.autoUpdater]
-			enableAutoUpdater = false

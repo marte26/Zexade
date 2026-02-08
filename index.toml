@@ -68,11 +68,6 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "c4aecd36cc2a07b48538ab2eced4eabdc1b53af9e76ee91581921db2ed689c7e"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "9e4b7af4e25273baee0d9f2bc9f337d3b71ee52bbdd3d470cdcbb6d7876b1a1e"
 metafile = true
@@ -80,11 +75,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
 metafile = true
 
 [[files]]
@@ -213,18 +203,23 @@ hash = "3fcc0e1833d5ad122a623027acad67e5e3057066fec9974584995ac555d074f3"
 metafile = true
 
 [[files]]
-file = "mods/unilib.pw.toml"
-hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
-metafile = true
-
-[[files]]
 file = "mods/voxy.pw.toml"
 hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Zexade"
 author = "marte26"
-version = "2.1.0"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3b9fac5b27861667c68bdac07799cd84dd89fc3b640495d48c0b227486758dc"
+hash = "69aa00b9b12fb28a33dc0fd9f71be6fd0cf3ae7d0043145480dafbfc6cb9191d"
 
 [versions]
-fabric = "0.18.4"
-minecraft = "1.21.11"
+fabric = "0.19.5"
+minecraft = "26.2"

@@ -1,13 +1,13 @@
 name = "QuickLeafDecay"
-filename = "quickleafdecay-mc1.21.11-0.4.1.jar"
+filename = "quickleafdecay-mc26.2-0.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3Puj7Mln/versions/jyMshFoi/quickleafdecay-mc1.21.11-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/3Puj7Mln/versions/GNAB0Vml/quickleafdecay-mc26.2-0.5.3.jar"
 hash-format = "sha512"
-hash = "9b52582540ed1771507f3d864bc4f033074b7e58e66a02807ccdcd3bbb4c35e567b68e1666ae4446990a0f1b8460a37c3e7a40a2ade8e667b95814aafaf6992e"
+hash = "9d0aaba3c918f99d23029d411cedc0e56dd6164b0f91dcff53813eeb20189a84cd0193d9b7026c2d59a79d06f972b1509014f0a55bd0f6762ff66585a1003ca7"
 
 [update]
 [update.modrinth]
 mod-id = "3Puj7Mln"
-version = "jyMshFoi"
+version = "GNAB0Vml"
